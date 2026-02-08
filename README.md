@@ -8,3 +8,5 @@ written while learning Python.
 - Find maximum of two numbers
 - Factorial of a number
 - Simple and compound interest calculation
+- Electricity bill
+- Data bill
